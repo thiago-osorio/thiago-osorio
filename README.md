@@ -1,5 +1,5 @@
 ## Hi 👋, I am Thiago! 
-Engineer, coffee lover, Python anda JavaScript fan, Data Science curious. Currently in love with Data Minering
+Engineer, coffee lover, Python and JavaScript fan, Data Science curious. Currently in love with Data Minering
 
 I currently work at **Responde Aí**
 
