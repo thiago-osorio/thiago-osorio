@@ -1,7 +1,7 @@
 ## Hi 👋, I am Thiago! 
 Engineer, coffee lover, Python and JavaScript fan, Data Science curious. Currently in love with Data Minering
 
-I currently work at **Responde Aí**
+I currently work at **TOTVS**
 
 I'm currently learning **Data Science**
 
