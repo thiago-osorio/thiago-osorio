@@ -1,9 +1,7 @@
 ## Hi 👋, I am Thiago! 
 Engineer, coffee lover, Python and Machine Learning fan, Data Science curious. Currently in love with Data Mining
 
-I currently work at **TOTVS**
-
-I'm currently learning **Data Science**
+I'm a **Data Science**
 
 <a href="https://linkedin.com/in/thiago-osório"><img align="left" alt="Thiago O | LinkedIn" width="190px" src="https://img.shields.io/badge/Thiago Osorio-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 <a href="https://instagram.com/tqueiroz33"><img align="left" alt="Thiago O | Instagram" width="164px" src="https://img.shields.io/badge/tqueiroz33-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
