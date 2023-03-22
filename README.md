@@ -3,7 +3,7 @@ Engineer, coffee lover, Python and Machine Learning fan, Data Science curious. C
 
 I'm a **Data Scientist** @ Bradesco Seguros
 
-<a href="https://linkedin.com/in/thiago-osório"><img align="left" alt="Thiago O | LinkedIn" width="190px" src="https://img.shields.io/badge/Thiago Osorio-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://linkedin.com/in/thiago-osorio"><img align="left" alt="Thiago O | LinkedIn" width="190px" src="https://img.shields.io/badge/Thiago Osorio-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 <a href="https://instagram.com/tqueiroz33"><img align="left" alt="Thiago O | Instagram" width="164px" src="https://img.shields.io/badge/tqueiroz33-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 <a href="https://www.facebook.com/thiagoq33"><img align="left" alt="Thiago O | Facebook" width="195px" src="https://img.shields.io/badge/thiago osorio-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 <br />
