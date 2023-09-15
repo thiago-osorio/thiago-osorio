@@ -1,5 +1,5 @@
 ## Hi 👋, I am Thiago! 
-Engineer, coffee lover, Python and Machine Learning fan, Data Science curious. Currently in love with Data Mining
+Engineer, coffee lover, Python and Machine Learning fan, Data Science curious. Currently in love with Deep Learning.
 
 I'm a **Data Scientist** @ Bradesco Seguros
 
