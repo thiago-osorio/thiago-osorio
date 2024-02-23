@@ -30,10 +30,10 @@ I'm a **Senior Data Scientist** thriving to transform data in result!
 <br />
 
 # ⚡Key Projects:
-- Pneumonia Detection on Chest X-Rays using Convolutional Neural Network - [Available Here](https://github.com/thiago-osorio/pneumonia-detection)
-- Track Search Engine using Semantic Search - [Available Here](https://github.com/thiago-osorio/track-search-engine)
-- Movie Recommender System using Cosine Similarity - [Available Here](https://github.com/thiago-osorio/movie-recommender-system)
-- Voice Sex Recognition using Machine Learning - [Available Here](https://github.com/thiago-osorio/gender_recognition)
+- Pneumonia Detection on Chest X-Rays using Convolutional Neural Network - [`Available Here`](https://github.com/thiago-osorio/pneumonia-detection)
+- Track Search Engine using Semantic Search - [`Available Here`](https://github.com/thiago-osorio/track-search-engine)
+- Movie Recommender System using Cosine Similarity - [`Available Here`](https://github.com/thiago-osorio/movie-recommender-system)
+- Voice Sex Recognition using Machine Learning - [`Available Here`](https://github.com/thiago-osorio/gender_recognition)
 
 
 # 🏆Trophies Stats:
