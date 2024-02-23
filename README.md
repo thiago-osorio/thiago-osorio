@@ -1,4 +1,4 @@
-## Hi 👋, I am Thiago! 
+# Hi 👋, I am Thiago! 
 Engineer, coffee lover and Machine Learning fan.
 
 I'm a **Senior Data Scientist** thriving to transform data in result!
@@ -8,7 +8,7 @@ I'm a **Senior Data Scientist** thriving to transform data in result!
 <br />
 <br />
 
-# 💻🚀Technologies and Tools
+# 💻Technologies and Tools
 <a><img alt="Python" src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"></a>
 <a><img alt="PySpark" src="https://img.shields.io/badge/PySpark-000000?style=for-the-badge&logo=apache-spark&logoColor=white"></a>
 <a><img alt="Databricks" src="https://img.shields.io/badge/Databricks-000000?style=for-the-badge&logo=databricks&logoColor=white"></a>
@@ -29,11 +29,11 @@ I'm a **Senior Data Scientist** thriving to transform data in result!
 <a><img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-000000?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
 <br />
 
-## ⚡GitHub Stats:
+# ⚡GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=thiago-osorio)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-osorio)
 
 
-## 🏆Trophies Stats:
+# 🏆Trophies Stats:
 ![YOUR github stats](https://github-profile-trophy.vercel.app/?username=thiago-osorio)
 ---
