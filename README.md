@@ -29,9 +29,11 @@ I'm a **Senior Data Scientist** thriving to transform data in result!
 <a><img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-000000?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
 <br />
 
-# ⚡GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=thiago-osorio)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-osorio)
+# ⚡Key Projects:
+- Pneumonia Detection on Chest X-Rays using Convolutional Neural Network - [Available Here](https://github.com/thiago-osorio/pneumonia-detection)
+- Track Search Engine using Semantic Search - [Available Here](https://github.com/thiago-osorio/track-search-engine)
+- Movie Recommender System using Cosine Similarity - [Available Here](https://github.com/thiago-osorio/movie-recommender-system)
+- Voice Sex Recognition using Machine Learning - [Available Here](https://github.com/thiago-osorio/gender_recognition)
 
 
 # 🏆Trophies Stats:
