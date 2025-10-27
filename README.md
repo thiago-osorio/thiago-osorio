@@ -1,8 +1,6 @@
 # Hi 👋, I am Thiago! 
 Coffee lover and a **Data Scientist** thriving to transform data in result!
 
-<a href="https://linkedin.com/in/thiago-osorio"><img align="left" alt="LinkedIn" width="135px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-<br />
 <br />
 
 # 💻Technologies and Tools
